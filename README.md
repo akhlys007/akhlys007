@@ -3,6 +3,20 @@
 <a href="https://www.linkedin.com/in/timothy-chelelgo-49872222b/">AWS Certified Solutions Architect</a>, 
 <a href="https://www.timothychelelgo.com/">Tech Enthusiast</a>
 </h1>
+![Java](https://img.shields.io/badge/Java-SpringBoot-informational?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow?style=flat&logo=javascript)
+![Next.js](https://img.shields.io/badge/Next.js-Fullstack-informational?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-UI--Library-blue?style=flat&logo=react)
+![C++](https://img.shields.io/badge/C++-Firmware--Dev-blue?style=flat&logo=cpp)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-Cloud--Deployed-orange?style=flat&logo=amazonaws)
+![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-lightgrey?style=flat&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational--DB-blue?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Data--Storage-lightblue?style=flat&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-Server--Admin-black?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/Git-Version--Control-orange?style=flat&logo=git)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse--Proxy-green?style=flat&logo=nginx)
+![PM2](https://img.shields.io/badge/PM2-Node--Process--Manager-informational?style=flat&logo=npm)
 
 <h2>👨‍💻 Cloud & Software Development Projects:</h2>
 
