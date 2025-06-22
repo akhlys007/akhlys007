@@ -1,7 +1,7 @@
 # Hi, I'm Timothy!
-**Full-Stack Developer** •  
-**AWS Certified Solutions Architect** •  
-**Tech Enthusiast**
+## **Full-Stack Developer**  
+## **AWS Certified Solutions Architect**   
+## **Tech Enthusiast**
 
 ![Java](https://img.shields.io/badge/Java-SpringBoot-informational?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow?style=flat&logo=javascript)
