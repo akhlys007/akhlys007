@@ -1,7 +1,7 @@
 # Hi, I'm Timothy!
-**[Full-Stack Developer](https://github.com/akhlys007)** •  
-**[AWS Certified Solutions Architect](https://www.linkedin.com/in/timothy-chelelgo-49872222b/)** •  
-**[Tech Enthusiast](https://www.timothychelelgo.com/)**
+**Full-Stack Developer** •  
+**AWS Certified Solutions Architect** •  
+**Tech Enthusiast**
 
 ![Java](https://img.shields.io/badge/Java-SpringBoot-informational?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow?style=flat&logo=javascript)
