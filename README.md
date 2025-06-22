@@ -31,8 +31,6 @@
 - **Inventory Management Dashboard (Full Stack Web App)**  
   [Next.js + PostgreSQL + Nginx + EC2 + PM2](https://github.com/akhlys007/inventory-dashboard)
 
-- **Firmware & Embedded Systems (IoT Projects)**  
-  [C++ Firmware + PCB Design + Device Automation](https://github.com/akhlys007/firmware-samples)
 
 ---
 
