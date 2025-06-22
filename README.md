@@ -1,6 +1,6 @@
 # Hi, I'm Timothy!
 ## **Full-Stack Developer**  
-## Devop Engineer
+## Devops Engineer
 ## **AWS Certified Solutions Architect**   
 ## **Tech Enthusiast**
 
