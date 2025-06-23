@@ -24,7 +24,7 @@
 ## 👨‍💻 Cloud & Software Development Projects
 
 - **Patient Management System (Cloud-Native Microservices)**  
-  [Spring Boot + Kafka + Docker + AWS ECS + JWT](https://github.com/akhlys007/patient-management)
+  [Spring Boot + Kafka + Docker + AWS ECS + JWT + AWS API Gateway](https://github.com/akhlys007/patient-management)
 
 - **CI/CD Pipeline for Node.js App (AWS DevOps)**  
   [Node.js + Docker + CodePipeline + ECS Fargate](https://github.com/akhlys007/ci-cd-pipeline-project)
