@@ -27,13 +27,13 @@
   [Spring Boot + Kafka + Docker + AWS ECS + JWT](https://github.com/akhlys007/patient-management)
 
 - **CI/CD Pipeline for Node.js App (AWS DevOps)**  
-  [Node.js + Docker + CodePipeline + ECS Fargate](https://github.com/akhlys007/aws-nodejs-ci-cd)
+  [Node.js + Docker + CodePipeline + ECS Fargate](https://github.com/akhlys007/ci-cd-pipeline-project)
 
 - **Inventory Management Dashboard (Full Stack Web App)**  
-  [Next.js + PostgreSQL + Nginx + EC2 + PM2](https://github.com/akhlys007/inventory-dashboard)
+  [Next.js + PostgreSQL + Nginx + EC2 + PM2](https://github.com/akhlys007/inventory-management)
   
 - **3D Personal Portfolio**  
-  [Next.js + React + AWS Amplify + AWS Amazon Route53](https://timothychelelgo.com)  
+  [Next.js + React + GSAP + AWS Amplify + AWS Amazon Route53](https://timothychelelgo.com)  
   
 - **Wild Rydes Web App (Serverless Cloud Architecture)**  
   [Amplify + Cognito + Lambda + API Gateway + DynamoDB](https://github.com/akhlys007/wildrydes-site)
