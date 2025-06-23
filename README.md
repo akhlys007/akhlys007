@@ -31,7 +31,13 @@
 
 - **Inventory Management Dashboard (Full Stack Web App)**  
   [Next.js + PostgreSQL + Nginx + EC2 + PM2](https://github.com/akhlys007/inventory-dashboard)
-
+  
+- **3D Developer Portfolio**
+  [Next.js + Three.js + React + AWS Amplify](https://timothychelelgo.com)  
+  
+- **Wild Rydes Web App (Serverless Cloud Architecture)**  
+  [Amplify + Cognito + Lambda + API Gateway + DynamoDB](https://github.com/akhlys007/wildrydes-site)
+  
 
 ---
 
@@ -46,7 +52,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, JavaScript (Node.js, React, Next.js), C++, HTML/CSS  
+- **Languages**: Java, JavaScript (Node.js, React, Next.js), C++, HTML/CSS, Python
 - **Cloud & DevOps**: AWS (ECS, EC2, Lambda, RDS, S3, CodePipeline), Docker, Nginx, PM2  
 - **Databases**: PostgreSQL, MySQL, AWS RDS  
 - **Tools**: Git, Bash, Kafka, Prisma  
