@@ -56,7 +56,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, JavaScript (Node.js, React, Next.js), C++, HTML/CSS, Python
-- **Cloud & DevOps**: AWS (ECS, EC2, Lambda, RDS, S3, CodePipeline), Docker, Nginx, PM2  
+- **Cloud & DevOps**: AWS (ECS, EC2, Lambda, RDS, S3, CodePipeline), Docker, Nginx, PM2, OCI  
 - **Databases**: PostgreSQL, MySQL, AWS RDS  
 - **Tools**: Git, Bash, Kafka, Prisma  
 - **Concepts**: Microservices, REST APIs, JWT, CI/CD, OOP, Agile  
