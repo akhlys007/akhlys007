@@ -43,6 +43,9 @@
 
 ## 🎓 Certifications
 
+- [Oracle Cloud Infrastructure Generative AI Professional 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8ECA4DAF5757CF7693E6DDE5B50F7D0416CEF8B51E765B3BB58D836A8DC372EF)
+- [Oracle Cloud Infrastructure Devops Professional 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F11EFA56280BEF20CC3CA8672BF9D3BEED35995DC5CBC5457732DCFE0E1EC8EE)
+- [Oracle Cloud Infrastructure Multicloud Architect Professional 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF10F00A752F70CAC5FB7DE172B7CE1573F46E7A1E5CB0C790D88E062FAB03E)
 - [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/a44e0bc11944432b9b9b58bc045c7c77)
 - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/5d82618f48014c7abfd18a97f30a7607)
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Q3TYQFYR6WC7)
