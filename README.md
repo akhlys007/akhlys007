@@ -27,37 +27,52 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/akhlys007/patient-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=patient-management&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=patient-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 <a href="https://github.com/akhlys007/ci-cd-pipeline-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=ci-cd-pipeline-project&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=ci-cd-pipeline-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 
 <a href="https://github.com/akhlys007/inventory-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=inventory-management&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=inventory-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 <a href="https://github.com/akhlys007/wildrydes-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=wildrydes-site&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=wildrydes-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 
 ---
 
-## 🧩 Cloud & Software Development Portfolio
+## 🧩 Cloud & Software Development Projects
 
-- **Patient Management System (Cloud-Native Microservices)**  
-  [Spring Boot + Kafka + Docker + AWS ECS + JWT + API Gateway](https://github.com/akhlys007/patient-management)
+- **Patient Management System (Microservices on AWS)**  
+  *Java, Spring Boot, Docker, Kafka, AWS ECS/RDS*  
+  Developed a cloud-native healthcare platform with **five microservices** deployed on AWS ECS using Docker.  
+  Implemented **secure JWT authentication** via API Gateway and **asynchronous messaging** with Kafka and PostgreSQL on RDS.  
+  👉 [View Project](https://github.com/akhlys007/patient-management)
 
-- **CI/CD Pipeline for Node.js App (AWS DevOps)**  
-  [Node.js + Docker + CodePipeline + ECS Fargate](https://github.com/akhlys007/ci-cd-pipeline-project)
+- **AWS CI/CD Pipeline for Node.js App**  
+  *Node.js, Docker, AWS ECS Fargate, CodePipeline*  
+  Built a **CI/CD pipeline** using CodePipeline and CodeBuild for Dockerized Node.js apps.  
+  Deployed containers on **AWS ECS Fargate** via CloudFormation templates, reducing deployment time by **70%** through build automation.  
+  👉 [View Project](https://github.com/akhlys007/ci-cd-pipeline-project)
 
-- **Inventory Management Dashboard (Full-Stack Web App)**  
-  [Next.js + PostgreSQL + Nginx + EC2 + PM2](https://github.com/akhlys007/inventory-management)
+- **Inventory Management Dashboard**  
+  *Next.js, Node.js, AWS EC2/RDS, Prisma*  
+  Developed a **responsive inventory management dashboard** using Next.js and PostgreSQL (RDS).  
+  Managed a Linux-based production environment using **Nginx** reverse proxy and **PM2** for process management.  
+  👉 [View Project](https://github.com/akhlys007/inventory-management)
 
 - **3D Personal Portfolio**  
-  [Next.js + React + GSAP + AWS Amplify + Route53](https://timothychelelgo.com)
+  *Next.js, React, GSAP, AWS Amplify, Route53*  
+  Designed an interactive **3D developer portfolio** showcasing cloud and software projects.  
+  Hosted via **AWS Amplify** with domain management through Route53.  
+  👉 [Visit Site](https://timothychelelgo.com)
 
 - **Wild Rydes Web App (Serverless Cloud Architecture)**  
-  [Amplify + Cognito + Lambda + API Gateway + DynamoDB](https://github.com/akhlys007/wildrydes-site)
+  *Amplify, Cognito, Lambda, API Gateway, DynamoDB*  
+  Deployed a **serverless web application** on AWS with secure user authentication using Cognito.  
+  Leveraged **Lambda functions and API Gateway** for dynamic request handling and DynamoDB for persistent data storage.  
+  👉 [View Project](https://github.com/akhlys007/wildrydes-site)
 
 ---
 
@@ -82,16 +97,19 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhlys007&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhlys007&theme=tokyonight&hide_border=true" />
+  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-stats.vercel.app/api?username=akhlys007&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akhlys007's GitHub stats" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlys007&theme=tokyo-night&hide_border=true" />
+  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akhlys007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlys007&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" />
+  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlys007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akhlys007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlys007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
 
 ---
