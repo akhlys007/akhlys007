@@ -1,32 +1,56 @@
-# Hi, I'm Timothy! 👋
-## **Full-Stack Developer | DevOps Engineer | AWS Certified Solutions Architect | Tech Enthusiast**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Timothy%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-![Java](https://img.shields.io/badge/Java-SpringBoot-informational?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow?style=flat&logo=javascript)
-![Next.js](https://img.shields.io/badge/Next.js-Fullstack-informational?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-UI--Library-blue?style=flat&logo=react)
-![C++](https://img.shields.io/badge/C++-Firmware--Dev-blue?style=flat&logo=cpp)
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-Cloud--Deployed-orange?style=flat&logo=amazonaws)
-![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-lightgrey?style=flat&logo=apachekafka)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational--DB-blue?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-Data--Storage-lightblue?style=flat&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-Server--Admin-black?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/Git-Version--Control-orange?style=flat&logo=git)
-![Nginx](https://img.shields.io/badge/Nginx-Reverse--Proxy-green?style=flat&logo=nginx)
-![PM2](https://img.shields.io/badge/PM2-Node--Process--Manager-informational?style=flat&logo=npm)
+# 👨‍💻 Timothy Chelelgo  
+### **Full-Stack Developer | DevOps Engineer | AWS Certified Solutions Architect | Tech Enthusiast**
+
+![Visitors](https://komarev.com/ghpvc/?username=akhlys007&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 👨‍💻 Cloud & Software Development Projects
+## 🧠 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,nextjs,cpp,python,html,css" />
+</p>
+
+## ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,oci,docker,kubernetes,nginx,linux,git,githubactions" />
+</p>
+
+## 🗃️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/akhlys007/patient-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=patient-management&theme=tokyonight" />
+</a>
+<a href="https://github.com/akhlys007/ci-cd-pipeline-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=ci-cd-pipeline-project&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/akhlys007/inventory-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=inventory-management&theme=tokyonight" />
+</a>
+<a href="https://github.com/akhlys007/wildrydes-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=wildrydes-site&theme=tokyonight" />
+</a>
+
+---
+
+## 🧩 Cloud & Software Development Portfolio
 
 - **Patient Management System (Cloud-Native Microservices)**  
-  [Spring Boot + Kafka + Docker + AWS ECS + JWT + AWS API Gateway](https://github.com/akhlys007/patient-management)
+  [Spring Boot + Kafka + Docker + AWS ECS + JWT + API Gateway](https://github.com/akhlys007/patient-management)
 
 - **CI/CD Pipeline for Node.js App (AWS DevOps)**  
   [Node.js + Docker + CodePipeline + ECS Fargate](https://github.com/akhlys007/ci-cd-pipeline-project)
 
-- **Inventory Management Dashboard (Full Stack Web App)**  
+- **Inventory Management Dashboard (Full-Stack Web App)**  
   [Next.js + PostgreSQL + Nginx + EC2 + PM2](https://github.com/akhlys007/inventory-management)
 
 - **3D Personal Portfolio**  
@@ -49,13 +73,26 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚧 Currently Working On
+- Building a containerized **portfolio website on GCP** using Docker & Kubernetes  
+- Exploring **AI-driven cloud integrations** for scalable architectures  
 
-- **Languages:** Java, JavaScript (Node.js, React, Next.js), C++, Python, HTML/CSS  
-- **Cloud & DevOps:** AWS (ECS, EC2, Lambda, RDS, S3, CodePipeline), Docker, Nginx, PM2, OCI  
-- **Databases:** PostgreSQL, MySQL, AWS RDS  
-- **Tools:** Git, Bash, Kafka, Prisma  
-- **Concepts:** Microservices, REST APIs, JWT, CI/CD, OOP, Agile  
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhlys007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhlys007&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlys007&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlys007&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
 ---
 
@@ -67,25 +104,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+> *“Turning ideas into resilient, containerized solutions.”*
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/akhlys007"><img src="https://github-readme-stats.vercel.app/api?username=akhlys007&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akhlys007's GitHub stats" /></a>
-
-<a href="http://www.github.com/akhlys007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akhlys007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlys007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
-<a href="https://github.com/akhlys007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlys007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
----
-
-<!--
-**akhlys007/akhlys007** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
-
-🧠 I’m currently exploring more cloud-native architectures and container orchestration.  
-📦 Reach out for collaboration on full-stack systems, AWS solutions, or embedded firmware projects!
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=120&section=footer)
