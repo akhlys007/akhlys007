@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Timothy%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0a0a0a&height=200&section=header&text=Hi%20I'm%20Timothy%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 # 👨‍💻 Timothy Chelelgo  
 ### **Full-Stack Developer | DevOps Engineer | AWS Certified Solutions Architect | Tech Enthusiast**
 
-![Visitors](https://komarev.com/ghpvc/?username=akhlys007&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=akhlys007&label=Profile%20Views&color=0891b2&style=flat)
 
 ---
 
@@ -27,17 +27,17 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/akhlys007/patient-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=patient-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=patient-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0a0a&hide_border=true" />
 </a>
 <a href="https://github.com/akhlys007/ci-cd-pipeline-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=ci-cd-pipeline-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=ci-cd-pipeline-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0a0a&hide_border=true" />
 </a>
 
 <a href="https://github.com/akhlys007/inventory-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=inventory-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=inventory-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0a0a&hide_border=true" />
 </a>
 <a href="https://github.com/akhlys007/wildrydes-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=wildrydes-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhlys007&repo=wildrydes-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0a0a&hide_border=true" />
 </a>
 
 ---
@@ -97,31 +97,31 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-stats.vercel.app/api?username=akhlys007&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akhlys007's GitHub stats" /></a>
+  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-stats.vercel.app/api?username=akhlys007&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0a0a&hide_border=true&show_icons=true" alt="akhlys007's GitHub stats" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akhlys007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akhlys007&stroke=ffffff&background=0a0a0a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlys007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/akhlys007"><img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlys007&bg_color=0a0a0a&color=ffffff&line=0891b2&point=ffffff&area_color=0a0a0a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/akhlys007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlys007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/akhlys007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlys007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0a0a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.timothychelelgo.com-blue?style=flat&logo=googlechrome)](https://www.timothychelelgo.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-akhlys007-black?style=flat&logo=github)](https://github.com/akhlys007)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timothy%20Chelelgo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/timothy-chelelgo-49872222b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.timothychelelgo.com-0891b2?style=flat&logo=googlechrome)](https://www.timothychelelgo.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-akhlys007-000000?style=flat&logo=github)](https://github.com/akhlys007)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timothy%20Chelelgo-0891b2?style=flat&logo=linkedin)](https://www.linkedin.com/in/timothy-chelelgo-49872222b/)
 
 ---
 
 > *“Turning ideas into resilient, containerized solutions.”*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0891b2&height=120&section=footer)
